@@ -23,4 +23,10 @@ python termux_pro_install.py
 when it's done
 
 BECAUSE THE PROGRAMS ARE HIDDEN, YOU CAN CONTROL WITH THE COMMAND "ls -la"
+
+
+
+
+
+
 EXAMPLE COMMAND : "./start-kali.sh"
