@@ -1,4 +1,4 @@
-This Program Builds More Than One Control System In Termux;
+This Program Builds More Than One Operating System In Termux;
 
 
 
